@@ -1,0 +1,19 @@
+# 参考文献 PDF
+*.pdf
+
+# 搜索结果与临时 HTML
+*.html
+
+# Word 临时文件
+~$*
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Wolfram 脚本（工作文件）
+*.wl
