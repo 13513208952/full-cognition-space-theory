@@ -25,7 +25,7 @@ This paper establishes a **five-theorem system** that, starting from the fundame
 ## 五定理体系 | The Five-Theorem System
 
 ```
-有限 AI 模型  ⊊  C(K) = 全认识空间  ⊊  H_human  ⊆  全空间 U
+有限 AI 模型  ⊊  C(K) = 全认识空间  ⊆  全空间 U
 ```
 
 | 定理 | 核心命题 | 数学工具 |
